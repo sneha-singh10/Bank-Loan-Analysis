@@ -61,5 +61,3 @@ To monitor and assess the bank's lending activities and performance, a comprehen
 - **Power BI** *(optional)*: for building dashboards
 - **Excel** *(optional)*: For dataset preview and exploration
 
-## 📁 Folder Structure (Recommended)
-
